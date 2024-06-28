@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akif Artun</h1>
 <h3 align="center">Computer engineering student eager to learn.</h3>
 
-- 👨‍💻 I am working as a **Long Term Embedded Software Intern at Sixfab**
+- 👨‍💻 I am working as a **Embedded Software Engineer at Sixfab**
 
 - 📫 How to reach me **akifartn@gmail.com**
 
